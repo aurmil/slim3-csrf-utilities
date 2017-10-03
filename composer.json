@@ -14,7 +14,7 @@
     "license": "MIT",
     "require": {
         "php": ">=5.5.0",
-        "slim/csrf": "^0.7.0"
+        "slim/csrf": "^0.8"
     },
     "require-dev": {
         "slim/slim": "^3.3",
